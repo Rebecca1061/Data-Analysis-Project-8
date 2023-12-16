@@ -21,7 +21,8 @@
 
 7.Daniel Venita is the top sales representative who sold most bikes contributing most to the revenue.
 
-![image](https://github.com/Rebecca1061/Data-Analysis-Project-8/assets/152878222/e193efa2-db3b-461d-93ea-6dd3e829cb2a)
+![image](https://github.com/Rebecca1061/Data-Analysis-Project-8/assets/152878222/8e010dee-39f2-423c-bd44-8c0e56884e20)
+
 
 
 
